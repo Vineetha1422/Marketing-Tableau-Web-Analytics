@@ -16,7 +16,7 @@ Built a **production-ready marketing attribution dashboard** that answers:
 
 ---
 
-<img src="[images/dashboard-screenshot.png](https://github.com/Vineetha1422/Marketing-Tableau-Web-Analytics/blob/main/Dashboard%20Image.png)" width="800"/>
+<img src="[images/dashboard-screenshot.png](Dashboard Image.png)" width="800"/>
 
  NOTE : Sankey and Donut are from an extension which requires licensing when published. So this project is uploaded here.
  The dashboard can be viewed in Tableau public desktop (version : Tableau Desktop 2024.2+)
