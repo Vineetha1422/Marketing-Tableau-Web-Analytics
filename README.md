@@ -16,7 +16,7 @@ Built a **production-ready marketing attribution dashboard** that answers:
 
 ---
 
-![E-Commerce Multi-Touch Attribution Dashboard](images/dashboard-screenshot.png)
+![E-Commerce Multi-Touch Attribution Dashboard](Dashboard Image.png)
 
  NOTE : Sankey and Donut are from an extension which requires licensing when published. So this project is uploaded here.
  The dashboard can be viewed in Tableau public desktop (version : Tableau Desktop 2024.2+)
