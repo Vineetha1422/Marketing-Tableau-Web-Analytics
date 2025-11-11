@@ -12,20 +12,11 @@ Built a **production-ready marketing attribution dashboard** that answers:
 - **Key Insight**: **Email earns 48.8% of all purchase credit** (4x more than Paid Social)  
 - **Business Impact**: Students (5% of users) convert at **2x average rate**  
 
-**Live Demo**: [Open `ecommerce-attribution.twbx` in Tableau Desktop]  
 **Skills**: Tableau, LOD Expressions, Multi-Touch Attribution, Marketing ROI Analysis
 
 ---
 
-## Business Problem Solved  
-Marketing teams struggle with:  
-- **"Should we spend more on Email or Paid Social?"** ← No clear answer  
-- **"Do students convert better?"** ← Manual Excel analysis  
-- **"What's our true conversion rate by channel?"** ← Last-click bias  
+![E-Commerce Multi-Touch Attribution Dashboard](images/dashboard-screenshot.png)
 
-**This dashboard delivers**:  
-**10-second decisions** from raw session data → **budget reallocation recommendations**
-
----
-
-## Technical Architecture  
+ NOTE : Sankey and Donut are from an extension which requires licensing when published. So this project is uploaded here.
+ The dashboard can be viewed in Tableau public desktop (version : Tableau Desktop 2024.2+)
